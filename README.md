@@ -1,4 +1,4 @@
-# LinkedIn Search Script
+# LinkedIn Job Filter
 
 The script allows the use to define filter parameters to search for jobs in LinkedIN (**job titles, companies, location, on-site/remote, experience level and time filter**).
 
